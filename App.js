@@ -85,7 +85,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style = {styles_1.appContainer}>
-        <ImageBackground source={image} style = {styles_1.image}>
+        
       
     </ImageBackground>
       <Input
